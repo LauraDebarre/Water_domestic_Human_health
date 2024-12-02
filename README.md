@@ -7,6 +7,6 @@ Codes were generated to :
 1-Compute characterisation factors assessing potential impacts on human health due to water consumption (leading to domestic water deprivation)
 2- Aggregate CF at different spatial levels (country, regional) 
 
-The codes must be used along with a "data" folder. The user must filled the data folder with the dataset at : https://doi.org/10.5683/SP3/TCTDTD 
+The codes must be used along with a "data" folder. The user must filled the data folder with the dataset at :  https://doi.org/10.5683/SP3/TCTDTD 
 
 
